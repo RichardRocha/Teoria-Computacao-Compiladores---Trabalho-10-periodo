@@ -1,1 +1,3 @@
-João mora em Araras, na Rua das Flores, 123. CEP 13600-000. Seu CPF é 123.456.789-00. Seu telefone é (19) 99999-8888. Seu email é joao@email.com.
+Pedro mora em Limeira, na Rua das Flores, 123. CEP 13655-000. Seu CPF é 555.456.789-00. Seu telefone é (19) 99999-8888. Seu email é pedro@email.com.
+
+Joao mora em Americana, na Rua das Flores, 123. CEP 13788-000. Seu CPF é 333.456.789-00. Seu telefone é (19) 12345-8888. Seu email é joao123@email.com.
